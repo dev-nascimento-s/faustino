@@ -1,0 +1,56 @@
+.navegacap{
+    position: absolute;
+    width: 800px;margin-top: -40px;
+    display: flex;
+    justify-items: center;
+}
+img{width: 40%;}
+.label_b{
+    border: 2px solid #fff;
+    padding: 50px ;
+    border: 10px;
+    cursor: pointer;
+    transition: 1;
+}
+.label_b :not(:last-child){
+    margin-right: 40px;
+
+}
+
+.label_b:hover{
+    background-color: rgb(99, 142, 179);
+}
+
+
+#adio1:checked{
+    margin-left: 0;
+}
+#adio2:checked{
+    margin-left: -25%;
+}
+
+#adio2:checked{
+    margin-left: -40%;
+}
+
+#adio3:checked{
+    margin-left: -60%;
+}
+
+
+#adio4:checked{
+    margin-left: -50%;
+}
+
+#adio5:checked{
+    margin-left: -75%;
+}
+
+.navegacap div{
+    border:  2px solid brown;
+    padding: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 1s;
+}
+/* midias*/

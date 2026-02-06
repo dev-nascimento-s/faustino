@@ -1,0 +1,22 @@
+
+
+.prod_pc_mae{
+ background-color: rgba(255, 255, 255, 0.521);
+border: 1px solid rgb(79, 90, 83)
+
+
+}
+.adicionar{
+    width: 100%;
+    margin-left: -1px;
+    align-items: center;
+    padding: 3px;
+    margin-top: 7px;
+    margin-left: 10px; 
+    background-color: black;
+}
+.adicionar:hover{background-color: chocolate;}
+
+.seg{
+    background-color: rgb(24, 24, 94);
+}
